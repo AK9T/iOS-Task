@@ -1,0 +1,1 @@
+The above project is about extending the functionality of the existing movie list app by introducing a detailed information page for each movie. The new info page not only displays detailed information about the movie but also features a section for similar movies, enhancing user engagement and providing more content options.
